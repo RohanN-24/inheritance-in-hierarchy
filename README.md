@@ -1,0 +1,1 @@
+there are parent class 'shape' with the public methhod area which is called in another class of same package named 'area'. the child class of shape is rectangle and circle which gives the formula for calculating the area.
